@@ -8,6 +8,6 @@ Members:
 3. [Lê Nguyễn Nhựt Trường](https://github.com/truongcntn2017)
 4. [Nguyễn Ngọc Băng Tâm](https://github.com/nnbtam99)
 
-Tuần 7/11: bounding box red green blue for image
+Week 7/11: bounding box red green blue for image
 <br/>
-Tuần 15/11: MixCut & Mosiac
+Week 15/11: MixCut & Mosiac
