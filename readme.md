@@ -1,7 +1,9 @@
 # Competiton Data Centric
 ---
 Fight competition of FPT AI about data centric. See detail in [here](https://datacomp.io/trang-chu)
+<br/>
 Team: HTV
+<br/>
 Members:
 1. [Lê Hồng Huy](https://github.com/lehonghuy2000)
 2. [Nguyễn Thị Minh Vượng](https://github.com/MinhVuong2000)
