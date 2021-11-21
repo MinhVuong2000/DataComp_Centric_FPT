@@ -12,4 +12,6 @@ Members:
 
 Week 7/11: bounding box red green blue for image
 <br/>
-Week 15/11: MixCut & Mosiac
+Week 15/11: Relabel and use gaussian blur (7,7) and modify brightness value add 55
+<br/>
+Week 22/11:
